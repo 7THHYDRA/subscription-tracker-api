@@ -7,7 +7,6 @@ Built a production-ready Subscription Management System API that handles real us
   <h3 align="center">A Subscription Management System API</h3>
 </div>
 
-
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
