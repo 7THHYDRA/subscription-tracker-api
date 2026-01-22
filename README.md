@@ -2,19 +2,18 @@
 Built a production-ready Subscription Management System API that handles real users, real money, and real business logic.  Authenticate users using JWTs, connect a database, create models and schemas, and integrate it with ORMs. Structure the architecture of your API to ensure scalability and seamless communication with the frontend.
 <div align="center">
   <br />
-    <a href="#" target="_blank" style="pointer-events: none;">
-      <img src="https://i.ibb.co/xtTbHkfs/Readme-Thumbnail.png" alt="Project Banner">
-    </a>
+  <img src="https://i.ibb.co/xtTbHkfs/Readme-Thumbnail.png" alt="Project Banner">
   <br />
-  
+
   <div>
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="node.js" />
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white">
   </div>
 
   <h3 align="center">A Subscription Management System API</h3>
 </div>
+
 
 ## 📋 <a name="table">Table of Contents</a>
 
